@@ -1,4 +1,5 @@
 from math import sqrt
+import urllib2
 
 critics = {
     'Lisa Rose': {'Lady in the Water': 2.5, 'Snakes on a Planet': 3.5, 'Just My Luck': 3.0, 'Superman Returns': 3.5,
